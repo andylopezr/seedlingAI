@@ -21,7 +21,7 @@ class _MySplashState extends State<MySplash> {
           color: Color(0xFF415301),
         ),
       ),
-      image: Image.asset('assets/logoalt.png'),
+      image: Image.asset('assets/logo.png'),
       backgroundColor: Colors.white,
       photoSize: 60.0,
       loaderColor: Colors.white,
