@@ -26,20 +26,19 @@ This project is interpreted/tested on VSCode using:
 * TFLite 1.1.2
 * Dart 3.21
 
-
-
-## File Descriptions
-
+## Test Image samples
+<img src="https://i.imgur.com/6SrGQNu.png">
+<img src="https://i.imgur.com/D9LDZrM.png">
+<img src="https://i.imgur.com/vBZkRZW.png">
 
 ## Current UI V1
 <img src="https://i.imgur.com/KPersEH.png">
+<img src="https://i.imgur.com/zVVHcx3.png">
+<img src="https://i.imgur.com/p1tJvws.png">
 
-
-## UI V2
+## UI V2 - In development
 <img src="https://i.imgur.com/uPJWRt1.png">
-![image](https://user-images.githubusercontent.com/69986264/116504172-5d063b80-a87d-11eb-8f4e-cade40793c2f.png)
-![image](https://user-images.githubusercontent.com/69986264/116504249-7c9d6400-a87d-11eb-9a3d-c4ccda8d9f6f.png)
-![image](https://user-images.githubusercontent.com/69986264/116504269-88892600-a87d-11eb-870b-d29a5c906de0.png)
+
 
 
 
