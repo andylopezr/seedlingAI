@@ -1,7 +1,7 @@
-# cat_and_dog
+# Seedling AI
+<img src="https://imgur.com/gallery/Kf9Z4sM">
 
-A new Flutter project.
-
+This is 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
