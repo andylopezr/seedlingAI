@@ -27,15 +27,17 @@ This project is interpreted/tested on VSCode using:
 * Dart 3.21
 
 ## Test Image samples
-<img src="https://i.imgur.com/6SrGQNu.png">
-<img src="https://i.imgur.com/D9LDZrM.png">
-<img src="https://i.imgur.com/vBZkRZW.png">
-
+<div style="display: flex; flex-flow: raw wrap;">
+  <img src="https://i.imgur.com/6SrGQNu.png">
+  <img src="https://i.imgur.com/D9LDZrM.png">
+  <img src="https://i.imgur.com/vBZkRZW.png">
+</div>
 ## Current UI V1
-<img src="https://i.imgur.com/KPersEH.png">
-<img src="https://i.imgur.com/zVVHcx3.png">
-<img src="https://i.imgur.com/p1tJvws.png">
-
+<div style="display: flex; flex-flow: raw wrap;">
+  <img src="https://i.imgur.com/KPersEH.png">
+  <img src="https://i.imgur.com/zVVHcx3.png">
+  <img src="https://i.imgur.com/p1tJvws.png">
+</div>
 ## UI V2 - In development
 <img src="https://i.imgur.com/uPJWRt1.png">
 
